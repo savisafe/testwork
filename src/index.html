@@ -7,8 +7,56 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
 <header class="container_header">
+    <div class="block_left">
+        <button class="menu">
+            <img src="assets/img/menu.png" alt="">
+        </button>
+        <div class="title_header">
+            Напитки, соки
+        </div>
+    </div>
+
+    <div>
+        <button class="icon_search" id="iconSearch">
+            <img src="assets/img/search.png" alt="">
+        </button>
+        <button class="shop">
+            <img src="assets/img/shopping-cart.png" alt="">
+        </button>
+    </div>
+
+
+    <div class="display-none container_popup" id="search">
+        <div class="popup_wrapper">
+            <input class="search" type="text" placeholder="Что ищем?">
+            <img class="icon_x" src="assets/img/x.png" alt="" id="iconX">
+        </div>
+    </div>
+
 
 </header>
+
+
+<div class="container_products">
+    <div class="product">
+
+        <div class="icon_product">
+            <img src="assets/img/felix.png" alt="">
+        </div>
+
+        <div class="product_wrapper">
+            <div class="icon-shop">
+                <img src="assets/img/shopping-cart.png" alt="">
+            </div>
+            <div class="icon_price">
+                <img src="assets/img/price.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
