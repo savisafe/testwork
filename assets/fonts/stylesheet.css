@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowThin.eot');
+    src: local('Geometria Narrow Thin'), local('Geometria-NarrowThin'),
+        url('Geometria-NarrowThin.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowThin.woff2') format('woff2'),
+        url('Geometria-NarrowThin.woff') format('woff'),
+        url('Geometria-NarrowThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-Narrow.eot');
+    src: local('Geometria Narrow'), local('Geometria-Narrow'),
+        url('Geometria-Narrow.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-Narrow.woff2') format('woff2'),
+        url('Geometria-Narrow.woff') format('woff'),
+        url('Geometria-Narrow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowExtraBold.eot');
+    src: local('Geometria Narrow ExtraBold'), local('Geometria-NarrowExtraBold'),
+        url('Geometria-NarrowExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowExtraBold.woff2') format('woff2'),
+        url('Geometria-NarrowExtraBold.woff') format('woff'),
+        url('Geometria-NarrowExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowBold.eot');
+    src: local('Geometria Narrow Bold'), local('Geometria-NarrowBold'),
+        url('Geometria-NarrowBold.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowBold.woff2') format('woff2'),
+        url('Geometria-NarrowBold.woff') format('woff'),
+        url('Geometria-NarrowBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowExtraLight.eot');
+    src: local('Geometria Narrow ExtraLight'), local('Geometria-NarrowExtraLight'),
+        url('Geometria-NarrowExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowExtraLight.woff2') format('woff2'),
+        url('Geometria-NarrowExtraLight.woff') format('woff'),
+        url('Geometria-NarrowExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowLight.eot');
+    src: local('Geometria Narrow Light'), local('Geometria-NarrowLight'),
+        url('Geometria-NarrowLight.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowLight.woff2') format('woff2'),
+        url('Geometria-NarrowLight.woff') format('woff'),
+        url('Geometria-NarrowLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowMedium.eot');
+    src: local('Geometria Narrow Medium'), local('Geometria-NarrowMedium'),
+        url('Geometria-NarrowMedium.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowMedium.woff2') format('woff2'),
+        url('Geometria-NarrowMedium.woff') format('woff'),
+        url('Geometria-NarrowMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria Narrow';
+    src: url('Geometria-NarrowHeavy.eot');
+    src: local('Geometria Narrow Heavy'), local('Geometria-NarrowHeavy'),
+        url('Geometria-NarrowHeavy.eot?#iefix') format('embedded-opentype'),
+        url('Geometria-NarrowHeavy.woff2') format('woff2'),
+        url('Geometria-NarrowHeavy.woff') format('woff'),
+        url('Geometria-NarrowHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
