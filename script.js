@@ -19,17 +19,17 @@ openMenu.addEventListener('click', ()=>{
     categories.classList.toggle('display-none')
 })
 
-const shop = document.getElementById('shop')
+const iconShop = document.getElementById('iconShop')
 const counter = document.getElementById('counter')
 const closeCounter = document.getElementById('close_counter')
 
-shop.addEventListener('click',()=>{
-    shop.classList.toggle('display-none')
+iconShop.addEventListener('click',()=>{
+    iconShop.classList.toggle('display-none')
     counter.classList.toggle('display-none')
 })
 
 closeCounter.addEventListener('click', ()=>{
-    shop.classList.toggle('display-none')
+    iconShop.classList.toggle('display-none')
     counter.classList.toggle('display-none')
 })
 
